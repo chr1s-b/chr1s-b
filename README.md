@@ -4,7 +4,7 @@
 
 - ⚙️ I often use `.py`, `.js`, `.cs` but sometimes I work with `.r`, `.cpp`, `.jl` and more.
 - 🌐 I'm most interested in tackling problems in security, infrastructure, and markets.
-- :computer: Currently entering my penultimate year, graduating June 2025.
+- :computer: Currently entering my final year, graduating June 2025.
 
 Find out more about what I'm doing: 
 - [christopherboddy.com](https://www.christopherboddy.com)
